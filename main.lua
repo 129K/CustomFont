@@ -135,7 +135,7 @@ FontPackage = {
 	[','] = {
 		{0, 20}, {0, 22}, {-1, 24}
 	};
-}
+} -- Too lazy to continue for now... :|
 
 local Create = assert(LoadLibrary("RbxUtility").Create)
 
